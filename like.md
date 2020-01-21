@@ -1,2 +1,1 @@
 update like
-update pin
